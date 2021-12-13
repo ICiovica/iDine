@@ -17,6 +17,9 @@
 		AC3D536D2765135F00D81543 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC3D536C2765135F00D81543 /* Assets.xcassets */; };
 		AC3D53702765135F00D81543 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC3D536F2765135F00D81543 /* Preview Assets.xcassets */; };
 		ACA49FE12767664500DBF160 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA49FE02767664500DBF160 /* ItemDetail.swift */; };
+		ACA49FE327676F8000DBF160 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA49FE227676F8000DBF160 /* OrderView.swift */; };
+		ACA49FE5276770C300DBF160 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA49FE4276770C300DBF160 /* MainView.swift */; };
+		ACDC4492276773AB00B6E397 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDC4491276773AB00B6E397 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +34,9 @@
 		AC3D536C2765135F00D81543 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC3D536F2765135F00D81543 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ACA49FE02767664500DBF160 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
+		ACA49FE227676F8000DBF160 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		ACA49FE4276770C300DBF160 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		ACDC4491276773AB00B6E397 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +72,9 @@
 				AC3D53682765135E00D81543 /* iDineApp.swift */,
 				AC3D536A2765135E00D81543 /* ContentView.swift */,
 				ACA49FE02767664500DBF160 /* ItemDetail.swift */,
+				ACA49FE227676F8000DBF160 /* OrderView.swift */,
+				ACA49FE4276770C300DBF160 /* MainView.swift */,
+				ACDC4491276773AB00B6E397 /* CheckoutView.swift */,
 				AC108B972765143E00D8F890 /* Helper.swift */,
 				AC108B942765143E00D8F890 /* Menu.swift */,
 				AC108B9C2765191800D8F890 /* ItemRow.swift */,
@@ -157,6 +166,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACA49FE12767664500DBF160 /* ItemDetail.swift in Sources */,
+				ACA49FE5276770C300DBF160 /* MainView.swift in Sources */,
+				ACDC4492276773AB00B6E397 /* CheckoutView.swift in Sources */,
+				ACA49FE327676F8000DBF160 /* OrderView.swift in Sources */,
 				AC108B982765143E00D8F890 /* Menu.swift in Sources */,
 				AC3D536B2765135E00D81543 /* ContentView.swift in Sources */,
 				AC108B9B2765143E00D8F890 /* Helper.swift in Sources */,
