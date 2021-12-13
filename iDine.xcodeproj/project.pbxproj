@@ -16,6 +16,7 @@
 		AC3D536B2765135E00D81543 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC3D536A2765135E00D81543 /* ContentView.swift */; };
 		AC3D536D2765135F00D81543 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC3D536C2765135F00D81543 /* Assets.xcassets */; };
 		AC3D53702765135F00D81543 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC3D536F2765135F00D81543 /* Preview Assets.xcassets */; };
+		ACA49FE12767664500DBF160 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA49FE02767664500DBF160 /* ItemDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		AC3D536A2765135E00D81543 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AC3D536C2765135F00D81543 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC3D536F2765135F00D81543 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ACA49FE02767664500DBF160 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 			children = (
 				AC3D53682765135E00D81543 /* iDineApp.swift */,
 				AC3D536A2765135E00D81543 /* ContentView.swift */,
+				ACA49FE02767664500DBF160 /* ItemDetail.swift */,
 				AC108B972765143E00D8F890 /* Helper.swift */,
 				AC108B942765143E00D8F890 /* Menu.swift */,
 				AC108B9C2765191800D8F890 /* ItemRow.swift */,
@@ -153,6 +156,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACA49FE12767664500DBF160 /* ItemDetail.swift in Sources */,
 				AC108B982765143E00D8F890 /* Menu.swift in Sources */,
 				AC3D536B2765135E00D81543 /* ContentView.swift in Sources */,
 				AC108B9B2765143E00D8F890 /* Helper.swift in Sources */,
